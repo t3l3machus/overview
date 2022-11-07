@@ -1,14 +1,73 @@
 ## Repository Content (Sources)
-
-| Project  | Short Description | Stars | Forks | Support |
-|---|---|---|---|---|
-|[toxssin](https://github.com/t3l3machus/toxssin)   | An XSS exploitation command-line interface.  |[![GitHub stars](https://badgen.net/github/stars/t3l3machus/toxssin)](https://GitHub.com/t3l3machus/toxssin)   |[![GitHub forks](https://badgen.net/github/forks/t3l3machus/toxssin)](https://GitHub.com/t3l3machus/toxssin)  |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  | 
-|[hoaxshell](https://github.com/t3l3machus/hoaxshell)   | hoaxshell is an unconventional Windows reverse shell. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/hoaxshell)](https://GitHub.com/t3l3machus/hoaxshell)   |[![GitHub forks](https://badgen.net/github/forks/t3l3machus/hoaxshell)](https://GitHub.com/t3l3machus/hoaxshell)  |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  |
-|[eviltree](https://github.com/t3l3machus/eviltree)   | A standalone python3 remake of the classic "tree" command with the additional feature of searching for user provided keywords/regex in files, highlighting those that contain matches. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/eviltree)](https://GitHub.com/t3l3machus/eviltree)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/eviltree)](https://GitHub.com/t3l3machus/eviltree) |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  |
-|[psudohash](https://github.com/t3l3machus/psudohash)   | A password list generator based on keywords mutated by commonly used patterns and more. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/psudohash)](https://GitHub.com/t3l3machus/psudohash)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/psudohash)](https://GitHub.com/t3l3machus/psudohash) |<img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f">  |
-|[pentest-pivoting](https://github.com/t3l3machus/pentest-pivoting) | A network pivoting guide for pentests / CTFs. | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/pentest-pivoting)](https://GitHub.com/t3l3machus/pentest-pivoting)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/pentest-pivoting)](https://GitHub.com/t3l3machus/pentest-pivoting) | <img src="https://img.shields.io/badge/Maintained%3F-Yes-96c40f"> |
-|[ssh-log-alert](https://github.com/t3l3machus/ssh-log-alert) | Receive email alerts on successful ssh logins (mailgun). | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/ssh-log-alert)](https://GitHub.com/t3l3machus/ssh-log-alert)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/ssh-log-alert)](https://GitHub.com/t3l3machus/ssh-log-alert) | <img src="https://img.shields.io/badge/Maintained%3F-No-ff642b"> |
-|[gmail-ssh-log-alert](https://github.com/t3l3machus/gmail-ssh-log-alert) | Receive email alerts on successful ssh logins (gmail). | [![GitHub stars](https://badgen.net/github/stars/t3l3machus/gmail-ssh-log-alert)](https://GitHub.com/t3l3machus/gmail-ssh-log-alert)   | [![GitHub forks](https://badgen.net/github/forks/t3l3machus/gmail-ssh-log-alert)](https://GitHub.com/t3l3machus/gmail-ssh-log-alert) | <img src="https://img.shields.io/badge/Maintained%3F-No-ff642b"> |
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>Project</b></td>
+      <td><b>Short Description</b></td>
+      <td><b>Stars</b></td>
+      <td><b>Forks</b></td>
+      <td><b>Support</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/t3l3machus/toxssin"><b>toxssin</b></a></td>
+      <td>An XSS exploitation command-line interface.</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/toxssin?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/toxssin?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t3l3machus/hoaxshell"><b>hoaxshell</b></a></td>
+      <td>A Windows reverse shell payload generator and handler that abuses the http(s) <br />protocol to establish a beacon-like reverse shell. </td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/hoaxshell?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/hoaxshell?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/t3l3machus/psudohash"><b>psudohash</b></a></td>
+      <td>A password list generator based on keywords mutated by commonly used patterns and more.</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/psudohash?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/psudohash?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr> 
+    <tr>
+      <td><a href="https://github.com/t3l3machus/eviltree"><b>eviltree</b></a></td>
+      <td>A standalone python3 remake of the classic "tree" command with the additional <br />feature of searching for user provided keywords/regex in files, highlighting those that contain matches.</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t3l3machus/pentest-pivoting"><b>pentest-pivoting</b></a></td>
+      <td>A network pivoting guide for pentests / CTFs.</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/pentest-pivoting?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/t3l3machus/ssh-log-alert"><b>ssh-log-alert</b></a></td>
+      <td>Receive email alerts on successful ssh logins (mailgun).</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>    
+     <tr>
+      <td><a href="https://github.com/t3l3machus/gmail-ssh-log-alert"><b>gmail-ssh-log-alert</b></a></td>
+      <td>Receive email alerts on successful ssh logins (gmail).</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/gmail-ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/gmail-ssh-log-alert?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>
+     <tr>
+      <td><a href="https://github.com/t3l3machus/cybersec-service-metrics"><b>cybersec-service-metrics</b></a></td>
+      <td>A spreadsheet designed to automatically generate Key Performance Indicators <br />for Cyber Security Services based on documented data. Ideal for Team leaders / Managers of small-medium sized organizations.</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/cybersec-service-metrics?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/cybersec-service-metrics?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>  
+  </tbody>
+</table>
 
 ## Support
 If you like the tools that are freely distributed by this repository and would like to see it grow, consider making a donation or sharing it:  
