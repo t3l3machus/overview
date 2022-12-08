@@ -45,6 +45,13 @@
       <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/eviltree?style=flat-square&labelColor=343b41"/></td>
       <td>Yes</td>
     </tr>
+      <tr>
+      <td><a href="https://github.com/t3l3machus/wwwtree"><b>wwwtree</b></a></td>
+      <td>A utility for quickly and easily locating, web hosting and transferring resources during PrivEsc.</td>      
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/t3l3machus/wwwtree?style=flat-square&labelColor=343b41"/></td>
+      <td>Yes</td>
+    </tr>
     <tr>
       <td><a href="https://github.com/t3l3machus/pentest-pivoting"><b>pentest-pivoting</b></a></td>
       <td>A network pivoting guide for pentests / CTFs.</td>      
